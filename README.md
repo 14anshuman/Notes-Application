@@ -56,6 +56,17 @@ Notes-Application/
 │
 └── README.md # Documentation 
 ```
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/14anshuman/Notes-Application.git
+cd Notes-Application
+```
+## Backend
+cd backend
+npm install
+
 
 
 ## 📈 Future Enhancements
