@@ -3,7 +3,6 @@
 [![GitHub Repo](https://img.shields.io/badge/Repo-Notes--Application-blue?logo=github)](https://github.com/14anshuman/Notes-Application)
 [![Stars](https://img.shields.io/github/stars/14anshuman/Notes-Application?style=social)](https://github.com/14anshuman/Notes-Application/stargazers)
 [![Forks](https://img.shields.io/github/forks/14anshuman/Notes-Application?style=social)](https://github.com/14anshuman/Notes-Application/network/members)
-[![License](https://img.shields.io/github/license/14anshuman/Notes-Application?color=green)](#-license)
 
 A full-stack **Notes Application** built using the **MERN stack** (**MongoDB, Express.js, React.js, Node.js**) and styled with **Tailwind CSS**.  
 It lets users **create, update, delete, and manage notes** efficiently with a clean and modern interface.  
@@ -41,3 +40,19 @@ It lets users **create, update, delete, and manage notes** efficiently with a cl
 
 ## 📂 Project Structure
 
+```
+Notes-Application/
+│
+├── backend/ # Express + Node.js backend
+│ ├── models/ # Mongoose models
+│ ├── routes/ # API routes
+│ └── server.js # Main server entry point
+│
+├── frontend/ # React + Tailwind CSS frontend
+│ ├── src/
+│ │ ├── components/ # Reusable components
+│ │ ├── pages/ # Application pages
+│ │ └── App.js # Root component
+│
+└── README.md # Documentation 
+```
