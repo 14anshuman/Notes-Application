@@ -27,7 +27,8 @@ It lets users **create, update, delete, and manage notes** efficiently with a cl
 
 **Frontend**  
 - ⚛️ React.js  
-- 🎨 Tailwind CSS  
+- 🎨 Tailwind CSS
+- 📦 Redux (state management) 
 
 **Backend**  
 - 🟢 Node.js  
@@ -74,6 +75,30 @@ npm install
 cd frontend
 npm install
 ```
+### 3️⃣ Setup Environment Variables
+In backend/.env file:
+```bash
+MONGO_URI=your_mongodb_connection_string
+PORT=5000
+```
+
+### 4️⃣ Run the Application
+
+Start backend
+```bash
+cd backend
+npm run dev
+```
+Start frontend
+```bash
+cd frontend
+npm start
+```
+The app will be available at:
+
+Frontend → http://localhost:3000
+
+Backend API → http://localhost:5000
 
 
 ## 📈 Future Enhancements
