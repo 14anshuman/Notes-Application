@@ -99,7 +99,8 @@ Backend API → http://localhost:5000
 
 
 ## 📈 Future Enhancements
-🔒 User authentication (login & register)
-🌙 Dark mode support
-📂 Organize notes with categories/tags
-☁️ Cloud deployment (Vercel / Render / Netlify + MongoDB Atlas)
+
+- 🔒 Password Reset. 
+- 🌙 Dark mode support  
+- 📂 Organize notes with categories/tags  
+- ☁️ Cloud deployment (Vercel / Render / Netlify + MongoDB Atlas)  
