@@ -63,10 +63,17 @@ Notes-Application/
 git clone https://github.com/14anshuman/Notes-Application.git
 cd Notes-Application
 ```
+### 2️⃣ Install Dependencies
 ## Backend
+```bash
 cd backend
 npm install
-
+```
+## Frontend
+```bash
+cd frontend
+npm install
+```
 
 
 ## 📈 Future Enhancements
