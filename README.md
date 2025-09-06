@@ -7,7 +7,7 @@
 A full-stack **Notes Application** built using the **MERN stack** (**MongoDB, Express.js, React.js, Node.js**) and styled with **Tailwind CSS**.  
 It lets users **create, update, delete, and manage notes** efficiently with a clean and modern interface.  
 
-🔗 **Live Demo**: [Coming Soon]  
+
 📂 **Repository**: [Notes Application](https://github.com/14anshuman/Notes-Application)
 
 ---
@@ -56,3 +56,10 @@ Notes-Application/
 │
 └── README.md # Documentation 
 ```
+
+
+## 📈 Future Enhancements
+🔒 User authentication (login & register)
+🌙 Dark mode support
+📂 Organize notes with categories/tags
+☁️ Cloud deployment (Vercel / Render / Netlify + MongoDB Atlas)
